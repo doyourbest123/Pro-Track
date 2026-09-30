@@ -1,6 +1,6 @@
 # Pro-Track - Ticker Tracker
 
-ProTrack is a project that pulls current and historical financial data from specified stock tickers using the `yfinance` Python library, while providing qualitative AI insights using the Gemini 2.5 Flash LLM model.
+ProTrack is a project that pulls current and historical financial data from specified stock tickers using the `yfinance` Python library, while providing qualitative AI insights using the Gemini 3.6 flash LLM model.
 
 ## Repository Structure
 
