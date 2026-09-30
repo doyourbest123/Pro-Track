@@ -1,0 +1,18 @@
+# === ENVIRONMENT VARIABLES ===
+key.env
+.env
+.env.*
+*.local
+
+# === PYTHON BACKEND ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# === REACT FRONTEND (NODE) ===
+node_modules/
+/build
+/dist
+.eslintcache
