@@ -23,7 +23,7 @@ Follow these steps to set up and run Pro-Track on your local machine. You will n
 ### 1. Prerequisites
 Clone the repository and create a `key.env` file in your `backend/` directory to store your API key safely:
 ```text
-GEMINI_API_KEY=your_actual_gemini_api_key_here
+GEMINI_API_KEY=gemini_api_key_here
 ```
 
 ### 2. Backend Setup (FastAPI)
