@@ -68,5 +68,5 @@ Open a **second terminal window** and navigate to the frontend folder:
    ```bash
    npx vite --force
    ```
-   *Vite will compile your UI and provide a local URL (typically `http://localhost:5173`) to view the application in your browser.*
+   *The frontend will now be live and auto-reloading at `http://localhost:5173`.*
 
